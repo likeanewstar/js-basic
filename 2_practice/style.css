@@ -1,0 +1,4 @@
+body{background:#f5f5f5;}
+h1{font-family:arial;color:midnightblue;transition:color .5s ease-in-out;}
+.clicked{color:mediumorchid;}
+.btn{cursor:pointer;}
